@@ -1,0 +1,24 @@
+*.class
+*.log
+*.ctxt
+.mtj.tmp/
+*.jar
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.log
+*.gz
+
+#Intellij files.
+*.iml
+.idea
+**/.mvn
+
+#OSX
+.DS_Store
+
+#Maven target dris.
+**/target
+**/overlays
