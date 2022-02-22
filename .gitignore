@@ -14,6 +14,7 @@
 #Intellij files.
 *.iml
 .idea
+.settings
 **/.mvn
 
 #OSX
