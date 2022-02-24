@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="mat-server-commons" />
         <module name="maven-archiver" />
+        <module name="madie-server-commons" />
       </profile>
     </annotationProcessing>
   </component>
